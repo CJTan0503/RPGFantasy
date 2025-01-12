@@ -1,5 +1,5 @@
 # RPGFantasy
-This is a turn-based RPG Game created using RPG Maker MV. 
+This is a turn-based strategies RPG Game created using RPG Maker MV. 
 
 ## Login System
 
@@ -11,6 +11,9 @@ This project is a simple login system that allows users to register and log in. 
 - User login with username and password.
 - Secure password storage using hashing.
 - Input validation for registration and login forms.
+- Dungeon discovery and adventures.
+- Tough battle with enemies.
+- Collect legendary weapon and accessories.
 
 ## Setup Instructions
 
