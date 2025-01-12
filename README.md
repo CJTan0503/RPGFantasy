@@ -1,4 +1,4 @@
-##RPGFantasy
+# RPGFantasy
 This is a turn-based RPG Game created using RPG Maker MV. 
 
 ## Login System
