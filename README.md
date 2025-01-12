@@ -1,4 +1,4 @@
-# RPGFantasy
+# Rescue of Radiances
 This is a turn-based strategies RPG Game created using RPG Maker MV. 
 
 ## Login System
