@@ -1,4 +1,7 @@
-# Login System
+#RPGFantasy
+This is a turn-based RPG Game created using RPG Maker MV. 
+
+## Login System
 
 This project is a simple login system that allows users to register and log in. It includes user authentication features and is built using PHP and MySQL.
 
@@ -37,7 +40,7 @@ login-system
 2. Create a database in PHPMyAdmin named `rpgproject`.
 3. Import the `sql/rpgproject.sql` file to set up the necessary tables.
 4. Configure your database connection in the `.env` file.
-5. Open `src/index.php` in your web browser to access the application.
+5. Open `http://localhost/RPGProject/Project1/login.php` in your web browser to access the application.
 
 ## Usage Guidelines
 
@@ -48,3 +51,5 @@ login-system
 ## Contributing
 
 Feel free to submit issues or pull requests for improvements or bug fixes.
+
+##
